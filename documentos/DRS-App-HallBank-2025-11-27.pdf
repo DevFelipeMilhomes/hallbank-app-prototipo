@@ -1,0 +1,29 @@
+1. Informações Gerais
+
+Nome do projeto: App Bancário – “HallBank”
+Versão do documento: 1.0
+Data: 27/11/2025
+Autor: Felipe Barbosa
+
+Descrição:
+Este documento especifica requisitos funcionais, não funcionais e restrições para o protótipo do aplicativo HallBank. 
+O objetivo é definir claramente o comportamento, as características e os limites do sistema.
+
+2. Escopo
+
+O sistema consiste em:
+
+Tela de Login
+Tela Principal (Dashboard)
+Tela Extra 1: Transferência PIX
+Tela Extra 2: Extrato Bancário
+
+3. Requisitos Funcionais (RF)
+
+**RF01 - Autenticação**
+O sistema deve permitir que o usuário faça login utilizando CPF e senha.
+**RF02 - Exibir Saldo**
+O sistema deve exibir saldo no dashboard.
+**RF03 - Transferências**
+**RF04 - Ações Rapidas**
+O sistema deve apresentar no dashboard botões para as ações rápidas.
