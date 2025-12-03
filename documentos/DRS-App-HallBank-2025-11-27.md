@@ -3,9 +3,9 @@
 **Nome do projeto:** App Bancário – “HallBank”  
 **Data:** 27/11/2025  
 **Autor:** Felipe Barbosa  
-**v1.0** — 27/11/2025 — Versão inicial.
-**v2.0** — 03/12/2025 — Versão Atual.
-
+**v1.0** — 27/11/2025 — Versão inicial.  
+**v2.0** — 03/12/2025 — Versão Atual.  
+  
 **Descrição:**  
 *Este documento especifica escopo, restrições, definições e abreviações, requisitos funcionais e não funcionais e requisitos de interface para o protótipo do aplicativo HallBank. O objetivo é definir claramente o comportamento, as características e os limites do sistema.* 
 
@@ -42,7 +42,7 @@ Tela Extra 2: Extrato Bancário
 
 **RF-A: Autenticação e Segurança**  
 **RF01 - Autenticação**  
-O sistema deve permitir que o usuário faça login utilizando CPF e senha. 
+O sistema deve permitir que o usuário faça login utilizando CPF e senha.  
 **RF02 - Esqueci Senha**  
 O sistema deve permitir a recuperação de senha em caso de esquecimento.  
 **RF03 - Visibilidade**  
@@ -72,9 +72,11 @@ RF11.1 - Pagamento:
     • Pagamento por QR code.  
     • Pagamento por chave pix.  
     • Pagamento agendado.  
+
 RF11.2 - Recebimento:  
     • Receber por QR code.  
     • Contatos pix.  
+
 RF11.3 - Gerenciamento de Chaves:  
     • O sistema deve permitir ao usuário gerenciar as próprias chaves pix.  
 
@@ -92,6 +94,7 @@ As interfaces devem manter boa legibilidade e organização visual em diferentes
    
 **RI01 - Paleta de cores**  
 *A paleta foi definida com foco em transmitir credibilidade e confiança ao usuário, utilizando o azul como cor primária por sua forte associação psicológica com segurança e estabilidade em interfaces financeiras.*  
+  
     • Cor primária: #277EEF  
     • Cor secundária: #FFFFFF  
     • Cor campo input: #E6E6E6  
@@ -100,10 +103,12 @@ As interfaces devem manter boa legibilidade e organização visual em diferentes
 
 **RI02 -  Tipografia**  
 *As famílias tipográficas adotadas foram obtidas do serviço Google Fonts, assegurando disponibilidade gratuita, otimização para web e consistência visual entre dispositivos.*  
+  
 RI02.1 - Fontes:  
     • Changa One: Utilizada na logo para as letras "HB".  
     • Lobster: Utilizada no nome "HallBank" junto a logo.  
     • Cantora One: Utilizada para todos os outros demais casos.  
+
 RI02.2 - Tamanho:  
     • 15px - 16px: textos informativos e botões menores.  
     • 20px: texto de botões maiores.  
@@ -111,21 +116,25 @@ RI02.2 - Tamanho:
 
 **RI03 - Grid e Estrutura de Layout**  
 *Este projeto utiliza um grid baseado no 4-Point System, amplamente adotado em interfaces mobile modernas.*   
+   
 RI03.1 - Grid utilizado:  
     • 8 colunas.  
     • Largura da coluna: proporcional ao dispositivo.  
     • Gutter: 16px  
     • Margem lateral: 16px  
+
 RI03.2 - Dimensões de componentes:  
     • Icones: 20px e 40px.  
     • Input e Output: 299px de largura e 57px de altura.  
     • Botões menores: 30px de altura.  
     • Arredondamento de canto: 20px.  
+
 RI03.3 - Estilos e efeitos visuais:  
     • Sombra Projetada em cards: x: 4px, y: 4px, desfoque: 5px, tamanho: 1px e opacidade: 25%.  
 
 **RI04 - Área de Funcionalidades**  
 *O sistema deve apresentar áreas no layout dedicadas as seguintes funcionalidades:*  
+  
     • Exibir saldo do usuário.  
     • Botões para ações rápidas de transferência PIX, TED e boletos com seus respectivos icones.  
     • Investimentos, com cards contendo informações de cada investimento.  
@@ -137,6 +146,7 @@ RI03.3 - Estilos e efeitos visuais:
 
 **RI05 - Tela Extrato**  
 O sistema deve apresentar as informações do extrato bancário da seguinte forma:  
+  
     • Sessões de cada dia com as transações realizadas no determinado dia.  
     • As sessões devem apresentar a data na parte superior.  
     • Cada transação deve exibir o valor, o horário, se foi recebido ou enviado e quem realizou a ação.  
@@ -144,6 +154,7 @@ O sistema deve apresentar as informações do extrato bancário da seguinte form
 
 **RI06 - Tela Pix**  
 O sistema deve apresentar as informações e funcionalidades pix em uma tela exclusiva da seguinte forma:  
+  
     • Botões de pagar e receber pix em formato de card com o icone e o texto de cada função.  
     • Sessão que exiba as chaves pix do usuário.  
     • Botão para voltar para a tela de dashboard.  
