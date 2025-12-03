@@ -69,15 +69,18 @@ investir.
  **RF11 - Módulo Pix**  
 O sistema deve apresentar todas as funcionalidades relacionadas ao pix que inclui:  
 RF11.1 - Pagamento:  
+  
     • Pagamento por QR code.  
     • Pagamento por chave pix.  
     • Pagamento agendado.  
 
 RF11.2 - Recebimento:  
+  
     • Receber por QR code.  
     • Contatos pix.  
 
 RF11.3 - Gerenciamento de Chaves:  
+  
     • O sistema deve permitir ao usuário gerenciar as próprias chaves pix.  
 
 ## Requisitos não Funcionais (RNF)
