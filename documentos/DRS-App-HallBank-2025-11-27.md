@@ -108,11 +108,13 @@ As interfaces devem manter boa legibilidade e organização visual em diferentes
 *As famílias tipográficas adotadas foram obtidas do serviço Google Fonts, assegurando disponibilidade gratuita, otimização para web e consistência visual entre dispositivos.*  
   
 RI02.1 - Fontes:  
+  
     • Changa One: Utilizada na logo para as letras "HB".  
     • Lobster: Utilizada no nome "HallBank" junto a logo.  
     • Cantora One: Utilizada para todos os outros demais casos.  
 
 RI02.2 - Tamanho:  
+  
     • 15px - 16px: textos informativos e botões menores.  
     • 20px: texto de botões maiores.  
     • 32px: Textos grandes.  
@@ -121,18 +123,21 @@ RI02.2 - Tamanho:
 *Este projeto utiliza um grid baseado no 4-Point System, amplamente adotado em interfaces mobile modernas.*   
    
 RI03.1 - Grid utilizado:  
+  
     • 8 colunas.  
     • Largura da coluna: proporcional ao dispositivo.  
     • Gutter: 16px  
     • Margem lateral: 16px  
 
 RI03.2 - Dimensões de componentes:  
+  
     • Icones: 20px e 40px.  
     • Input e Output: 299px de largura e 57px de altura.  
     • Botões menores: 30px de altura.  
     • Arredondamento de canto: 20px.  
 
 RI03.3 - Estilos e efeitos visuais:  
+  
     • Sombra Projetada em cards: x: 4px, y: 4px, desfoque: 5px, tamanho: 1px e opacidade: 25%.  
 
 **RI04 - Área de Funcionalidades**  
