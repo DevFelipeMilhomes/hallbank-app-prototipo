@@ -103,6 +103,8 @@ As interfaces devem manter boa legibilidade e organização visual em diferentes
     • Cor campo input: #E6E6E6  
     • Cor campo pesquisa: #B5B5B5  
     • Cor texto simples: #000000  
+    • Cor pagamento recebido: #02C22B  
+    • Cor pagamento enviado: #C20202  
 
 **RI02 -  Tipografia**  
 *As famílias tipográficas adotadas foram obtidas do serviço Google Fonts, assegurando disponibilidade gratuita, otimização para web e consistência visual entre dispositivos.*  
