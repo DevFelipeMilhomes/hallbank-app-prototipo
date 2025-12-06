@@ -124,9 +124,9 @@ Este protótipo foi desenvolvido como um projeto acadêmico, mas estruturado com
 
 ## 👨‍💻 Autor
 
-**Felipe Barbosa Milhomes**
-Estudante de Engenharia de Software
-GitHub: [https://github.com/DevFelipeMilhomes](https://github.com/DevFelipeMilhomes)
+**Felipe Barbosa Milhomes**  
+Estudante de Engenharia de Software  
+GitHub: [https://github.com/DevFelipeMilhomes](https://github.com/DevFelipeMilhomes)  
 
 ---
 
