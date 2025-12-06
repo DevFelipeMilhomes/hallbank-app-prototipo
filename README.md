@@ -4,7 +4,7 @@
 
 **Acesse o protótipo navegável completo clicando no link abaixo:**
 
-👉 [!Acessar protótipo no Figma](https://www.figma.com/proto/1nyxt90edv6komgD6J6rTb/prototipo-hallbank?node-id=1-5&p=f&t=2N8v80O6pRSbFf0n-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5)
+👉 [!Acessar protótipo no Figma](https://www.figma.com/proto/1nyxt90edv6komgD6J6rTb/prototipo-hallbank?node-id=1-5&p=f&t=VJ3r21FDKX5xqFLz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5)
 
 ---
 
